@@ -1,0 +1,30 @@
+  body {
+          background-color:rgba(0, 237, 255, 0.19);
+      }
+      h1{
+          color:coral; 
+          font-size: 50;
+        }
+      h2{
+          color:crimson;
+          font-size: 25;
+        }
+      hr { 
+          border-style: none;
+            border-top-style: dotted;
+        height:0px;
+        border-width:8px;
+       border-color: gray;
+      width: 3%;
+    }
+    
+    img:hover{
+      background-color: gold;
+    }
+    .circular{
+      border-radius: 100%;
+    }
+
+    .heading{
+    background-color:powderblue ;
+    } 
